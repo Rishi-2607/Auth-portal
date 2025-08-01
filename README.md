@@ -31,6 +31,6 @@ A sleek and secure command center built with React, Tailwind CSS, and Framer Mot
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/your-username/auth-portal-dashboard.git
-cd auth-portal-dashboard
+git clone https://github.com/Rishi-2607/Auth-portal.git
+cd auth-portal
 npm install
